@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MystArx
-- 👀 I’m interested in learning now to create awesome projetcs later.
+- 👀 I’m interested in learning now, to create awesome projetcs later.
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 How to reach me - mail me at itsmadhu.abh@gmail.com
